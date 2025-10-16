@@ -1,4 +1,5 @@
 🍦 Vanilla Vault
+---
 
 A vault of handmade, beginner-friendly JavaScript notes — learn core JS concepts day by day, my vanilla way!
 
@@ -45,6 +46,8 @@ Every concept is paired with:
 🎯 interview-style mini challenges
 
 💬 “Ye vault tumhare JS journey ka daily dose hai — ek din me ek concept, pure vanilla style!”
+
+---
 
 Why “Vanilla Vault”?
 
