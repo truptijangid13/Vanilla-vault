@@ -1,18 +1,15 @@
 🍦 Vanilla Vault
+
 A vault of handmade, beginner-friendly JavaScript notes — learn core JS concepts day by day, my vanilla way!
 
 Hey there, curious coder 👋
-Welcome to Vanilla Vault, a cozy little treasure chest where I’ve stored my daily JS learnings — no frameworks, no fluff — just pure, creamy Vanilla JavaScript. 🍨
+Welcome to Vanilla Vault, a cozy little treasure chest where I’ve stored my daily JS learnings — no frameworks, no fluff — just pure, creamy Vanilla JavaScript. 
 
 This repo is perfect if you’re:
 
 A beginner learning JS from scratch 💻
-
 Someone revising concepts for interviews 🎯
-
 Or just vibing with that “back-to-basics” vanilla energy 🌈
-
-🗂 What’s Inside the Vault?
 ---
 
 ## 🗂 What’s Inside the Vault?
