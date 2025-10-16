@@ -8,8 +8,11 @@ Welcome to Vanilla Vault, a cozy little treasure chest where I’ve stored my da
 This repo is perfect if you’re:
 
 A beginner learning JS from scratch 💻
+
 Someone revising concepts for interviews 🎯
+
 Or just vibing with that “back-to-basics” vanilla energy 🌈
+
 ---
 
 ## 🗂 What’s Inside the Vault?
@@ -41,12 +44,15 @@ Every concept is paired with:
 🎯 interview-style mini challenges
 
 💬 “Ye vault tumhare JS journey ka daily dose hai — ek din me ek concept, pure vanilla style!”
+---
 
 🧠 Why “Vanilla Vault”?
 
 Because it’s sweet, simple, and full of hidden treasures.
 No libraries, no frameworks — just you + JavaScript.
 Think of it as your JavaScript memory palace 🏰
+
+---
 
 💡 How to Use
 
@@ -60,6 +66,8 @@ Open any .docx file for the topic you want to study
 Take notes, try challenges, and experiment in your JS console 🧪
 
 Keep coming back — the vault keeps growing 💫
+
+---
 
 🪄 Sneak Peek
 
@@ -77,11 +85,15 @@ setTimeout(() => {
 
 Simple. Playful. Memorable.
 
+---
+
 📜 License
 
 This project is licensed under the MIT License —
 so you’re free to learn, share, remix, or even teach from it…
 just remember to give a tiny nod to the creator 👩‍💻 (that’s me, Trupti! 🌻)
+
+---
 
 ❤️ Credits
 
