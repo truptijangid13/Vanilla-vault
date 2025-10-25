@@ -29,7 +29,7 @@ Or just vibing with that “back-to-basics” vanilla energy 🌈
 | Day 6 | [Day 6](DAY%206.docx) ES6 Magic | destructuring, spread/rest, template literals, arrow functions, default params, Map/Set, import/export |
 | Day 7 | [Day 7](DAY%207.docx) Async & Promises | setTimeout, setInterval, Promise, async/await, and fun challenge mix 🎯 |
 | Extra – Functions | 🌈 [Extra Function Notes](Extra%20to%20Function.docx) | Abstraction Simplified — closure & class-based abstraction explained with love + logic ❤️ |
-| Roadmap | 🌈 [JS Roadmap](%F0%9F%9B%A0%EF%B8%8F%20Roadmap.docx) | Your JS Growth Map — Beginner → Intermediate → Advanced journey with top 50 interview Q&As 🧭 |
+| Roadmap | [JS Roadmap](%F0%9F%9B%A0%EF%B8%8F%20Roadmap.docx) | Your JS Growth Map — Beginner → Intermediate → Advanced journey with top 50 interview Q&As 🧭 |
 
 ---
 
