@@ -21,15 +21,16 @@ Or just vibing with that “back-to-basics” vanilla energy 🌈
 
 | Day | Topic | Highlights |
 |-----|-------|------------|
-| Day 1 | [Day 1](Day-Notes/Day%201.docx) Variables, Operators, Control Flow | var/let/const, scope, null vs undefined, loops, ASCII diagrams, practice challenges |
-| Day 2 | [Day 2](Day-Notes/Day%202.docx) Functions Deep Dive | declarations vs expressions, hoisting, this in arrows, call/apply/bind, closures (with examples!) |
-| Day 3 | [Day 3](Day-Notes/Day%203.docx) Arrays 101 | map(), filter(), reduce(), slice(), splice(), flat(), and real-world array problems |
-| Day 4 | [Day 4](Day-Notes/Day%204.docx) Objects in Action | dot/bracket access, merging, looping, freezing, optional chaining |
-| Day 5 | [Day 5](Day-Notes/Day%205.docx) DOM Manipulation | selectors, events, create/remove elements, mini playground examples |
-| Day 6 | [Day 6](Day-Notes/DAY%206.docx) ES6 Magic | destructuring, spread/rest, template literals, arrow functions, default params, Map/Set, import/export |
-| Day 7 | [Day 7](Day-Notes/DAY%207.docx) Async & Promises | setTimeout, setInterval, Promise, async/await, and fun challenge mix 🎯 |
-| Extra – Functions | 🌈 [Extra Function Notes](Extra/Extra%20to%20Function.docx) | Abstraction Simplified — closure & class-based abstraction explained with love + logic ❤️ |
-| Roadmap | 🌈 [JS Roadmap](Roadmap/Roadmap.docx) | Your JS Growth Map — Beginner → Intermediate → Advanced journey with top 50 interview Q&As 🧭 |
+| Day 1 | [Day 1](Day%201.docx) Variables, Operators, Control Flow | var/let/const, scope, null vs undefined, loops, ASCII diagrams, practice challenges |
+| Day 2 | [Day 2](Day%202.docx) Functions Deep Dive | declarations vs expressions, hoisting, this in arrows, call/apply/bind, closures (with examples!) |
+| Day 3 | [Day 3](Day%203.docx) Arrays 101 | map(), filter(), reduce(), slice(), splice(), flat(), and real-world array problems |
+| Day 4 | [Day 4](Day%204.docx) Objects in Action | dot/bracket access, merging, looping, freezing, optional chaining |
+| Day 5 | [Day 5](Day%205.docx) DOM Manipulation | selectors, events, create/remove elements, mini playground examples |
+| Day 6 | [Day 6](DAY%206.docx) ES6 Magic | destructuring, spread/rest, template literals, arrow functions, default params, Map/Set, import/export |
+| Day 7 | [Day 7](DAY%207.docx) Async & Promises | setTimeout, setInterval, Promise, async/await, and fun challenge mix 🎯 |
+| Extra – Functions | 🌈 [Extra Function Notes](Extra%20to%20Function.docx) | Abstraction Simplified — closure & class-based abstraction explained with love + logic ❤️ |
+| Roadmap | 🌈 [JS Roadmap](Roadmap.docx) | Your JS Growth Map — Beginner → Intermediate → Advanced journey with top 50 interview Q&As 🧭 |
+
 ---
 
 🧭 Learning Flow
